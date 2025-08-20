@@ -1,2 +1,2 @@
 # weather-dashboard
-This project is a weather-dashboard. The application will allow users to search for current weather conditions in various cities, using a public weather API.
+This project is a weather-dashboard. The goal of this project is to design and implement a Weather Dashboard using React JS, Tailwind CSS, HTML, CSS, and JavaScript. The application will allow users to search for current weather conditions in various cities, using a public weather API. It'll be a responsive and interactive user interface that will effectively fetch and display data from an external API (OpenWeatherMap API). I will then deploy the application for online access via Vercel.
