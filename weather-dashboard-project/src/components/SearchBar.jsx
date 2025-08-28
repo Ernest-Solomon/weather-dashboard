@@ -47,7 +47,7 @@ function SearchBar({ onSearch, isLoading = false }) {
       {/* Popular Cities Quick Search */}
       <div className="mt-3 flex flex-wrap gap-2">
         <p className="text-white/60 text-sm w-full">Quick search:</p>
-        {['London', 'New York', 'Tokyo', 'Paris'].map((city) => (
+        {['London', 'Lagos', 'New York', 'Tokyo', 'Paris'].map((city) => (
           <button
             key={city}
             type="button"
