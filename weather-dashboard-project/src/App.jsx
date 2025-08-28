@@ -4,7 +4,7 @@ import WeatherDisplay from './components/WeatherDisplay';
 import UnitToggle from './components/UnitToggle';
 import LoadingSpinner from './components/LoadingSpinner';
 import ErrorMessage from './components/ErrorMessage';
-import { getWeatherData } from './api/openWeatherMap';
+import { getWeatherData } from './api/OpenWeatherMap.jsx';
 
 function App() {
   const [weatherData, setWeatherData] = useState(null);
